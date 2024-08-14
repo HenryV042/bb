@@ -1,0 +1,47 @@
+.main-infor{
+    background-color: red;
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-container{
+    background-color: gray;
+    max-width:70%;
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: flex-start;
+}
+.img-container{
+    background-color: aqua;
+    height: 100%;
+    width: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .img-container img{
+    height: 100%;
+} */
+
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+    max-width: 90%;
+    width: 80vh;
+    max-height: 90%;
+    height: 100%;
+    margin: auto;
+}
+
+.form-container form{
+    background-color: green;
+    width: 100%;
+    height: 100%;
+}
+
